@@ -7,6 +7,8 @@ Provides image for concourse tasks that have the following utilities:
 - kubectl
 - kp
 - tmc
+- pivnet
+- kn
 
 ## Prerequisites before building image 
 
